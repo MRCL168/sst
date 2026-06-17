@@ -1,0 +1,280 @@
+{
+  "title": "Solid Surface Terdekat",
+  "tagline": "Produsen Supplier Distributor Kontraktor Solid Surface",
+  "description": "Produsen Supplier Distributor Kontraktor Solid Surface Indonesia",
+  "author": "Solid Surface Terdekat",
+  "language": "id",
+  "theme": "perusahaan",
+  "themeOptions": {
+    "accent": "#2563eb",
+    "accentDeep": "#1e3a8a"
+  },
+  "themeData": {
+    "perusahaan": {
+      "options": {
+        "accent": "#2563eb",
+        "accentDeep": "#1e3a8a"
+      },
+      "content": {
+        "slides": [
+          {
+            "kicker": "Solid Surface Indonesia",
+            "title": "Produsen, Supplier, Distributor & Kontraktor Solid Surface",
+            "subtitle": "Solid Surface Terdekat membantu kebutuhan top table, counter top, wallpanel, washtafel, kitchen set, dan meja kantor untuk proyek interior profesional.",
+            "btnText": "Hubungi Kami",
+            "btnUrl": "/kontak/",
+            "btn2Text": "Lihat Layanan",
+            "btn2Url": "/#layanan"
+          },
+          {
+            "kicker": "Material Interior Modern",
+            "title": "Solusi Solid Surface untuk Kantor, Gedung, Ritel, dan Hunian",
+            "subtitle": "Dapatkan dukungan konsultasi material, estimasi kebutuhan, fabrikasi, hingga pemasangan yang rapi untuk berbagai skala proyek.",
+            "btnText": "Konsultasi Gratis",
+            "btnUrl": "/kontak/",
+            "btn2Text": "Baca Artikel",
+            "btn2Url": "/category/kontraktor-solid-surface/"
+          },
+          {
+            "kicker": "Terdekat dan Siap Proyek",
+            "title": "Cari Solid Surface Terdekat untuk Pengadaan Lebih Praktis",
+            "subtitle": "Konten area membantu kontraktor, arsitek, interior designer, dan manajer gedung menemukan referensi solid surface sesuai kota proyek.",
+            "btnText": "Minta Penawaran",
+            "btnUrl": "/kontak/",
+            "btn2Text": "Lihat Wawasan",
+            "btn2Url": "/#berita"
+          }
+        ],
+        "heroAutoplay": true,
+        "heroInterval": 6,
+        "headerCta": {
+          "show": true,
+          "text": "Konsultasi Gratis",
+          "url": "/kontak/"
+        },
+        "stats": [
+          {
+            "value": "4",
+            "label": "Fokus Layanan Utama"
+          },
+          {
+            "value": "6+",
+            "label": "Aplikasi Interior"
+          },
+          {
+            "value": "98",
+            "label": "Kota Target Konten"
+          },
+          {
+            "value": "AEO",
+            "label": "Konten Siap Mesin Jawaban"
+          }
+        ],
+        "about": {
+          "eyebrow": "Tentang Kami",
+          "title": "Mitra solid surface untuk kebutuhan proyek interior profesional",
+          "text": "Solid Surface Terdekat adalah situs informasi dan kanal konsultasi untuk kebutuhan produsen, supplier, distributor, serta kontraktor solid surface di Indonesia. Kami membantu kontraktor, manajer gedung, pemilik kantor, arsitek, dan interior designer memahami pilihan material, aplikasi, serta alur pengadaan yang tepat. Fokus kami adalah menghadirkan solusi solid surface yang rapi secara estetika, fungsional, mudah dirawat, dan sesuai karakter ruang. Dari kebutuhan top table hingga wallpanel, setiap rekomendasi diarahkan agar proyek lebih terukur sejak tahap perencanaan.",
+          "image": "",
+          "points": [
+            "Konsultasi kebutuhan solid surface berdasarkan fungsi ruang dan skala proyek",
+            "Pendekatan pengadaan yang memperhatikan ukuran, finishing, warna, dan estimasi volume",
+            "Konten area untuk membantu pencarian solid surface terdekat di berbagai kota Indonesia"
+          ]
+        },
+        "servicesEyebrow": "Apa yang kami lakukan",
+        "servicesTitle": "Layanan Kami",
+        "servicesIntro": "Kami mendukung kebutuhan solid surface untuk area komersial, kantor, ritel, hospitality, fasilitas publik, dan hunian modern.",
+        "services": [
+          {
+            "icon": "layers",
+            "title": "Top Table",
+            "text": "Pembuatan dan suplai top table solid surface untuk meja resepsionis, pantry, klinik, kantor, dan area komersial.",
+            "url": "/kontak/"
+          },
+          {
+            "icon": "building",
+            "title": "Counter Top",
+            "text": "Solusi counter top solid surface yang rapi, higienis, dan mudah disesuaikan dengan desain interior proyek.",
+            "url": "/kontak/"
+          },
+          {
+            "icon": "shield",
+            "title": "Wallpanel",
+            "text": "Pemasangan wallpanel solid surface untuk tampilan dinding modern, bersih, dan tahan pemakaian harian.",
+            "url": "/kontak/"
+          },
+          {
+            "icon": "spark",
+            "title": "Washtafel",
+            "text": "Produksi washtafel solid surface custom dengan sambungan halus dan bentuk yang dapat mengikuti kebutuhan ruang.",
+            "url": "/kontak/"
+          },
+          {
+            "icon": "gear",
+            "title": "Kitchen Set",
+            "text": "Pengadaan material dan pengerjaan solid surface untuk kitchen set, pantry kantor, dan area dapur premium.",
+            "url": "/kontak/"
+          },
+          {
+            "icon": "users",
+            "title": "Meja Kantor",
+            "text": "Pembuatan meja kantor, meja meeting, dan meja kerja solid surface untuk kebutuhan interior profesional.",
+            "url": "/kontak/"
+          }
+        ],
+        "newsEnabled": true,
+        "newsEyebrow": "Wawasan",
+        "newsTitle": "Artikel & Tips Terbaru",
+        "newsIntro": "Panduan solid surface berdasarkan kota, jenis penyedia, dan kebutuhan proyek agar pengambilan keputusan lebih cepat.",
+        "newsCount": 3,
+        "faq": {
+          "enabled": true,
+          "eyebrow": "FAQ",
+          "title": "Pertanyaan yang Sering Diajukan",
+          "intro": "Jawaban singkat untuk pertanyaan umum seputar material, pengadaan, dan pemasangan solid surface.",
+          "items": [
+            {
+              "q": "Apa itu solid surface?",
+              "a": "Solid surface adalah material permukaan sintetis yang banyak digunakan untuk top table, counter, washtafel, meja, dan panel interior. Material ini populer karena tampilannya bersih, sambungan dapat dibuat halus, dan pilihan bentuknya fleksibel."
+            },
+            {
+              "q": "Bagaimana memilih solid surface untuk proyek kantor?",
+              "a": "Mulailah dari fungsi area, intensitas pemakaian, ukuran bidang, warna, dan kebutuhan finishing. Setelah itu, sesuaikan spesifikasi dengan konsep desain dan anggaran proyek."
+            },
+            {
+              "q": "Berapa lama pengerjaan solid surface?",
+              "a": "Waktu pengerjaan bergantung pada volume, detail desain, kesiapan ukuran, dan jadwal pemasangan. Proyek sederhana biasanya lebih cepat, sedangkan kebutuhan custom memerlukan waktu produksi dan koordinasi lebih matang."
+            },
+            {
+              "q": "Apakah solid surface cocok untuk area komersial?",
+              "a": "Ya, solid surface cocok untuk area komersial seperti meja resepsionis, counter toko, pantry kantor, klinik, dan ruang pelayanan. Keunggulannya adalah tampilan premium, mudah dibersihkan, dan dapat dibuat mengikuti bentuk desain."
+            },
+            {
+              "q": "Apakah bisa konsultasi kebutuhan material terlebih dahulu?",
+              "a": "Bisa. Anda dapat mengirimkan kebutuhan ruang, ukuran awal, gambar desain, atau konsep proyek agar rekomendasi material dan estimasi kebutuhan lebih tepat."
+            }
+          ]
+        },
+        "ctaBand": {
+          "title": "Butuh solid surface untuk proyek Anda?",
+          "text": "Kirimkan kebutuhan top table, counter top, wallpanel, washtafel, kitchen set, atau meja kantor. Tim kami siap membantu menyiapkan arahan material dan estimasi awal.",
+          "button": {
+            "text": "Hubungi Kami",
+            "url": "/kontak/"
+          }
+        },
+        "contact": {
+          "eyebrow": "Kontak",
+          "title": "Hubungi Kami",
+          "intro": "Ceritakan kebutuhan solid surface Anda, mulai dari jenis aplikasi, ukuran area, lokasi proyek, hingga target waktu pengerjaan. Kami akan membantu mengarahkan kebutuhan agar lebih jelas sebelum masuk tahap penawaran.",
+          "address": "",
+          "phone": "",
+          "whatsapp": "",
+          "email": "halo@solidsurface.terdekat.web.id",
+          "hours": "Senin–Jumat, 08.00–17.00 WIB",
+          "mapEmbed": "https://www.google.com/maps?q=Tangerang%2C%20Banten&output=embed",
+          "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tangerang%2C%20Banten"
+        },
+        "sidebar": [
+          {
+            "type": "tombol-kontak",
+            "title": "Hubungi Kami",
+            "text": "Konsultasi gratis untuk kebutuhan solid surface proyek Anda.",
+            "items": [
+              {
+                "label": "Kirim Email",
+                "url": "mailto:halo@solidsurface.terdekat.web.id"
+              },
+              {
+                "label": "Lihat Kontak",
+                "url": "/kontak/"
+              },
+              {
+                "label": "Lihat Layanan",
+                "url": "/#layanan"
+              }
+            ]
+          },
+          {
+            "type": "recent-posts",
+            "title": "Artikel Terbaru",
+            "count": 4
+          },
+          {
+            "type": "links",
+            "title": "Tautan Cepat",
+            "items": [
+              {
+                "label": "Layanan",
+                "url": "/#layanan"
+              },
+              {
+                "label": "Tentang Kami",
+                "url": "/about/"
+              },
+              {
+                "label": "Kontak",
+                "url": "/kontak/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "baseUrl": "https://solidsurface.terdekat.web.id",
+  "basePath": "",
+  "postsPerPage": 10,
+  "defaultOgImage": "",
+  "logo": "",
+  "favicon": "",
+  "footerCopyright": "© 2026 Solid Surface Terdekat. Hak cipta dilindungi.",
+  "social": {
+    "instagram": "",
+    "linkedin": "",
+    "twitter": "",
+    "github": "",
+    "email": "halo@solidsurface.terdekat.web.id"
+  },
+  "nav": [
+    {
+      "label": "Beranda",
+      "url": "/"
+    },
+    {
+      "label": "Layanan",
+      "url": "/#layanan"
+    },
+    {
+      "label": "Artikel",
+      "url": "#",
+      "children": [
+        {
+          "label": "Kontraktor Solid Surface",
+          "url": "/category/kontraktor-solid-surface/"
+        },
+        {
+          "label": "Distributor Solid Surface",
+          "url": "/category/distributor-solid-surface/"
+        },
+        {
+          "label": "Supplier Solid Surface",
+          "url": "/category/supplier-solid-surface/"
+        },
+        {
+          "label": "Produsen Solid Surface",
+          "url": "/category/produsen-solid-surface/"
+        }
+      ]
+    },
+    {
+      "label": "Tentang",
+      "url": "/about/"
+    },
+    {
+      "label": "Kontak",
+      "url": "/kontak/"
+    }
+  ],
+  "footerText": "Solid Surface Terdekat — informasi dan konsultasi solid surface untuk proyek interior Indonesia."
+}

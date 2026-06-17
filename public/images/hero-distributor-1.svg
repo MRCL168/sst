@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Gudang & Distribusi">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10316e"/><stop offset="1" stop-color="#1f5fd0"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M80 0H0V80" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <rect width="1600" height="900" fill="url(#grid)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.18" stroke-width="14" stroke-linejoin="round">
+    <rect x="1050" y="430" width="360" height="270" rx="20"/>
+    <path d="M1050 490 L1230 580 L1410 490"/>
+  </g>
+  <text x="120" y="470" font-family="Sora, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff" fill-opacity="0.10">Gudang & Distribusi</text>
+</svg>
