@@ -1,13 +1,12 @@
 ---
-title: "Supplier Solid Surface Terdekat di Tangerang untuk Kantor, Ritel, dan Hunian Modern"
-slug: solid-surface-terdekat-di-tangerang
+title: Supplier Solid Surface Terdekat di Tangerang untuk Kantor, Ritel, dan Hunian Modern
+slug: tangerang
 date: 2026-02-04
 status: published
-category: "Supplier Solid Surface"
-author: "Solid Surface Terdekat"
+category: Supplier Solid Surface
+author: Solid Surface Terdekat
 tags: ["solid surface", "tangerang", "supplier"]
-excerpt: "Solid Surface Terdekat di Tangerang untuk top table, counter, wallpanel, kitchen set, dan meja kantor. Konsultasi material dan pengerjaan lebih jelas."
-featured_image: ""
+excerpt: Solid Surface Terdekat di Tangerang untuk top table, counter, wallpanel, kitchen set, dan meja kantor. Konsultasi material dan pengerjaan lebih jelas.
 faq: [{"q":"Apa keunggulan mencari Solid Surface Terdekat di Tangerang?","a":"Keunggulannya adalah kebutuhan material dan pengerjaan di Tangerang dapat dibahas lebih terarah sejak awal. Anda bisa menyesuaikan ukuran, warna, finishing, dan skema kerja dengan kondisi proyek."},{"q":"Bagaimana memilih supplier solid surface di Tangerang?","a":"Pilih penyedia yang mampu menjelaskan material, proses pengukuran, pilihan finishing, dan estimasi pekerjaan secara terbuka. Utamakan yang memahami aplikasi seperti top table, counter, wallpanel, washtafel, atau kitchen set."},{"q":"Berapa biaya solid surface di Tangerang?","a":"Biaya bergantung pada ukuran bidang, tipe material, detail bentuk, volume pekerjaan, transport, dan tingkat kesulitan pemasangan. Estimasi paling akurat dibuat setelah ada ukuran awal, foto lokasi, atau gambar desain."}]
 ---
 
