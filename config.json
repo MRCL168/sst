@@ -52,11 +52,11 @@
         "stats": [
           {
             "value": "25+",
-            "label": "Berpengalaman lebih dari 25 Tahun"
+            "label": "Tahun Berpengalaman"
           },
           {
             "value": "800+",
-            "label": "800+ Project telah ditangani"
+            "label": "Project telah ditangani"
           },
           {
             "value": "98%",
@@ -313,11 +313,11 @@
     "stats": [
       {
         "value": "25+",
-        "label": "Berpengalaman lebih dari 25 Tahun"
+        "label": "Tahun Berpengalaman"
       },
       {
         "value": "800+",
-        "label": "800+ Project telah ditangani"
+        "label": "Project telah ditangani"
       },
       {
         "value": "98%",
